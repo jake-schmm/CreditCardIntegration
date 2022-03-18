@@ -4,5 +4,5 @@ Shows a catalog page with products, which you can buy for $0.50. Help was gained
 
 
 - stripeIPN2.php - where server-side code is written. A charge is created out of token sent by form. This file is activated when user submits the credit card details form. 
-- client.js - client-side code for Stripe API to work (creates and handles token) and for credit card details to display after clicking on "Pay"
+- client.js - client-side code for Stripe API to work (creates and handles token) and for credit card details to display after clicking on "Pay" on the front page
 - catalog.php - this is the front page containing all the products 
